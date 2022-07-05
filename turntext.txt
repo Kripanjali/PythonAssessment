@@ -1,0 +1,1 @@
+'Hey {name}, it is your turn to play the Wheel of Fortune! Are you ready?'
